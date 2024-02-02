@@ -186,7 +186,7 @@ const TodoList = () => {
             Complete all tasks
           </p>
           <p id="clear-all" onClick={handleClearCompleted}>
-            Delete comp tasks
+            Delete tasks
           </p>
         </div>
 
